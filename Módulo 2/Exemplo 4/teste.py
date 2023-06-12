@@ -20,10 +20,10 @@ class Cronometro:
 
 	def start(self):
 		while True:
-			os.system('cls')
+			os.system('cls') 
 			print(self)
 			self.incremento()
 			time.sleep(1)
-
+#teste
 cronometro1 = Cronometro()
 cronometro1.start()
