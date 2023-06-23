@@ -12,4 +12,8 @@ Com a evolução tecnológica, a possibilidade de criação dessas ferramentas g
 
 Neste curso, você aprenderá um pouco mais sobre classes e métodos, encapsulamento de códigos, criação de bibliotecas, desenvolvimento de aplicações e sobre a biblioteca chamada Kivy, que mostra que é possível ingressar nesse mundo de aplicações utilizando apenas uma linguagem.
 
- 
+## Resultado
+Ao término do curso foi realizado o projeto final, no qual a interface realizada está na figura abaixo:
+<div  align="center"> 
+    <img align="center" src="Materiais%20de%20Apoio/Foto%20Desafio.png" alt="Foto Desafio">
+</div>
